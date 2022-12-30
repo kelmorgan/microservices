@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="e4b2d7aa-5c52-4f6e-84b8-b1d9ebe29c3b" name="kelmorgan-mircoservices" url="jdbc:postgresql://localhost:5432/customer" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
